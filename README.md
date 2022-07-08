@@ -6,7 +6,7 @@ Comme un Instagram-like, il est possible de poster des photos, mettre des like, 
 
 ## Auteurs
 
-- [@hmzaakun](https://www.github.com/hmzaakun)
+- [@Hamza](https://www.github.com/hmzaakun)
 - [@Yassine](https://github.com/Yassine94110)
 
 
