@@ -14,3 +14,6 @@ Comme un Instagram-like, il est possible de poster des photos, mettre des like, 
 
 ![App Screenshot](https://i.imgur.com/xkgeRxs.png)
 
+![App Screenshot](https://imgur.com/a/hfnStsS)
+
+![App Screenshot](https://imgur.com/a/8hFAiVl)
